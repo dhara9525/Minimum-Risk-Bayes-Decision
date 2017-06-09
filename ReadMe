@@ -1,0 +1,9 @@
+Matlab version: R2017a (9.2.0.538062)
+
+In this folder Project2_MainProgram.m is primary project which reads file iris_dataset.dat. This program shuffles data divides data into training data (90% of original data) and test data (10% of original data) in each iteration (total 10 iterations). Based on discriminative functions it classifies test data. Accuracy during each iteration is displayed. At the end of program average accuracy is also depicted. Output of it is displayed in Project2_MainProg_Output_Screenshot_1.png.
+
+
+
+In this folder Project2_CorruptedData.m is secondary program which reads file corrupted_iris_dataset.dat. This program shuffles data divides data into training data (90% of original data) and test data (10% of original data) in each iteration (total 10 iterations). Based on discriminative functions it classifies test data. Accuracy during each iteration is displayed. At the end of program average accuracy is also depicted. Output of it is displayed in Project2_CorruptedDataset_Output_Screenshot_1.png.
+
+
